@@ -1,7 +1,7 @@
 
 
 
-### 2. set reference bandwidth to 10 Gbps
+### set reference bandwidth to 10 Gbps
 
 ```
 router ospf 1
