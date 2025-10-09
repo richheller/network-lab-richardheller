@@ -6,7 +6,7 @@ Specify OSPF interface cost parameter to 1
 
 ## Configuration
 
-```bash
+``` bash
 config t
 int e0/0
 ip ospf cost 1
