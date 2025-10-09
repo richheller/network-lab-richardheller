@@ -5,6 +5,7 @@
 Specify cost parameter to 1
 
 #Configuration
+##Verification
 ```text
 config t
 int e0/0
