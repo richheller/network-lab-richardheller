@@ -1,10 +1,10 @@
 
-#OSPF Basic Lab
+# OSPF Basic Lab
 
-##Objective
+## Objective
 Specify OSPF interface cost parameter to 1
 
-##Configuration
+## Configuration
 
 ```text
 config t
