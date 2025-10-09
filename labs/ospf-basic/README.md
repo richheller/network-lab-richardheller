@@ -1,10 +1,12 @@
 
+#OSPF Basic Lab
 
+
+Specify cost parameter to 1
 
 ```text
-Specify cost parameter to 1
 config t
-  int e0/0
-    ip ospf cost 1
+int e0/0
+ip ospf cost 1
 
     
