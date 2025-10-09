@@ -1,0 +1,9 @@
+
+
+
+### set reference bandwidth to 10 Gbps
+
+```text
+router ospf 1
+auto-cost reference-bandwidth 10000
+
