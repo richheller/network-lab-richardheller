@@ -26,3 +26,7 @@ sh ip route ospf
 ```
 sh ip protocols
 ```
+
+```
+sh ip ospf neighbors
+```
