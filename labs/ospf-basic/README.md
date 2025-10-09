@@ -1,11 +1,11 @@
 
 #OSPF Basic Lab
 
-#Objective
-Specify cost parameter to 1
+##Objective
+Specify OSPF interface cost parameter to 1
 
-#Configuration
-##Verification
+##Configuration
+
 ```text
 config t
 int e0/0
