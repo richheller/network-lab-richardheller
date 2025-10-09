@@ -22,3 +22,7 @@ do sh ip ospf int brief
 sh ip route
 sh ip route ospf
 ```
+
+```
+sh ip protocols
+```
