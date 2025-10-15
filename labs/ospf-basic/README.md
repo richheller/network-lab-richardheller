@@ -24,3 +24,16 @@ sh ip route ospf
 sh ip protocols
 sh ip ospf neighbors
 ```
+
+
+## OSPF neighbor states order
+
+``` bash
+Down
+Init
+2-Way
+ExStart
+Exchange
+Loading
+Full
+```
