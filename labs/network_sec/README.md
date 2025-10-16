@@ -29,3 +29,12 @@ ip access-list extended EXT-ACL
   ip access-group EXT-ACL in
 
 ```
+
+
+### verifying
+
+``` bash
+
+show access-lists 1
+
+```
