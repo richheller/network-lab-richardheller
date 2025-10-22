@@ -33,7 +33,10 @@ config t
 
 ## ACLs to limit who can connect
 ```bash
-
+access-list 1 permit 10.1.1.0 0.0.0.255
+access-list 1 deny any log
+line vty 0 15
+  access-class 1 in
 ```
 
 
