@@ -19,7 +19,8 @@ config t
 config t
   ip domain-name loonslocal.lab
   crypto key generate rsa
-  ip ssh ver 2
+  ip ssh version 2
+  line vty 0 15
   transport input all
 ```
 
