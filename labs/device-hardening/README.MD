@@ -20,3 +20,8 @@
 
 ```
 
+## Implementing DHCP snooping
+``` bash
+
+```
+
