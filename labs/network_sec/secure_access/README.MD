@@ -7,6 +7,10 @@
 ```
 ## Console Line
 ```bash
+config t
+line console 0
+login
+password Console123
 
 ```
 ## virtual terminal lines using both Telnet and SSH
