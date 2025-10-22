@@ -8,17 +8,18 @@
 ## Console Line
 ```bash
 config t
-line console 0
-login
-password Console123
+  line console 0
+  login
+  password Console123
 
 ```
 ## virtual terminal lines using both Telnet and SSH
 ```bash
-ip domain-name loonslocal.lab
-crypto key generate rsa
-ip ssh ver 2
-transport input all
+config t
+  ip domain-name loonslocal.lab
+  crypto key generate rsa
+  ip ssh ver 2
+  transport input all
 ```
 
 ## configuring login banners
