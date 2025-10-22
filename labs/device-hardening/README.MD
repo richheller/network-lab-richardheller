@@ -26,6 +26,7 @@ ip access-list extended SSH_allowed
   deny tcp any any eq 22
   permit ip any any
   exit
+
 ```
 
 ## Disabling Unused Services
