@@ -35,6 +35,10 @@ ip access-list extended SSH_allowed
 show control-plane host open-ports
 ##turn off http server
 no ip http server
+##turn off cdp service globally
+no cdp run
+
+
 
 
 ```
