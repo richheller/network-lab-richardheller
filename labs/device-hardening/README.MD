@@ -4,7 +4,7 @@
 ``` bash
 int range GigabitEthernet0/1-2
   shutdown
-  end
+  exit
 
 ##moving unused ports to dedicated vlan
 int range GigabitEthernet0/1-2
