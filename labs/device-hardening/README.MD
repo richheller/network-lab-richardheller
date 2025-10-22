@@ -2,7 +2,8 @@
 
 ## Securing Unused Ports
 ``` bash
-
+int range GigabitEthernet0/1-2
+  shutdown
 ```
 
 ## Infrastructure ACL
