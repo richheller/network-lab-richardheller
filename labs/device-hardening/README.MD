@@ -21,7 +21,11 @@ vlan 999
 
 ## Infrastructure ACL - iACLs
 ``` bash
-
+ip access-list extended SSH_allowed
+  permit 192.168.10.0 0.0.0.255 any eq 22
+  deny tcp any any eq 22
+  permit ip any any
+  exit
 ```
 
 ## Disabling Unused Services
