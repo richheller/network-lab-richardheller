@@ -4,7 +4,7 @@
 ## Priv Exec mode
 ```bash
 config t
-enable secret Secret123
+  enable secret Secret123
 ```
 ## Console Line
 ```bash
