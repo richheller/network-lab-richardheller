@@ -37,6 +37,8 @@ show control-plane host open-ports
 no ip http server
 ##turn off cdp service globally
 no cdp run
+##disable icmp redirect messages
+no ip redirects
 
 
 
