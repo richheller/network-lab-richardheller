@@ -1,22 +1,22 @@
 # Device Hardening
 
 ## Securing Unused Ports
-``bash
+`` bash
 
 ``
 
 ## Infrastructure ACL
-``bash
+`` bash
 
 ``
 
 ## Disabling Unused Services
-``bash
+`` bash
 
 ``
 
 ## Port Security
-``bash
+`` bash
 
 ``
 
