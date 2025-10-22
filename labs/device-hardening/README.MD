@@ -35,6 +35,7 @@ show control-plane host open-ports
 ##turn off http server
 no ip http server
 
+
 ```
 
 ## Port Security
