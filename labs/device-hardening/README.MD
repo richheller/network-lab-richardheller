@@ -5,6 +5,13 @@
 int range GigabitEthernet0/1-2
   shutdown
   end
+
+##moving unused ports to dedicated vlan
+int range GigabitEthernet0/1-2
+  switchport mode access 
+  switchport access vlan 999
+  shutdown
+  end
 ```
 
 ## Infrastructure ACL
