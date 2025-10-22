@@ -47,7 +47,7 @@ no ip redirects
 
 ## Port Security
 ``` bash
-
+##mac address filtering
 ```
 
 ## Implementing DHCP snooping
