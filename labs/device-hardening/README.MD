@@ -13,7 +13,7 @@ int range GigabitEthernet0/1-2
   shutdown
   exit
 vlan 999
-  name Parking vlan
+  name Parking_vlan
   shutdown
 
 ```
