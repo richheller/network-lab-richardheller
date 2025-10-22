@@ -11,7 +11,11 @@ int range GigabitEthernet0/1-2
   switchport mode access 
   switchport access vlan 999
   shutdown
-  end
+  exit
+vlan 999
+  name Parking vlan
+  shutdown
+
 ```
 
 ## Infrastructure ACL
