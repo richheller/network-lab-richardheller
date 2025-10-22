@@ -49,9 +49,13 @@ no ip redirects
 ``` bash
 ##mac address filtering
 
-#protect
-#restrict
-#shutdown
+#protect - offending frame is dropped
+#restrict - offending frame is dropped, snmp trap and syslog message generated. violation counter increments
+#shutdown - offending frame is dropped, snmp trap and syslog message generated. violation counter increments. interface goes into error-disabled state
+
+show port-security
+
+
 ```
 
 ## Implementing DHCP snooping
