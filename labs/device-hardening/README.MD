@@ -48,6 +48,10 @@ no ip redirects
 ## Port Security
 ``` bash
 ##mac address filtering
+
+#protect
+#restrict
+#shutdown
 ```
 
 ## Implementing DHCP snooping
