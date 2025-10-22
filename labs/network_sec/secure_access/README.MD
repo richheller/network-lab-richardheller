@@ -27,8 +27,8 @@ config t
 ## configuring login banners
 ```bash
 config t
-  banner login
-  'Access for authorized users only'
+  banner login #
+  Access for authorized users only#
 ```
 
 ## ACLs to limit who can connect
