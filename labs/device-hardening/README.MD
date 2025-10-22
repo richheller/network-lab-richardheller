@@ -50,8 +50,13 @@ no ip redirects
 ##mac address filtering
 
 #protect - offending frame is dropped
-#restrict - offending frame is dropped, snmp trap and syslog message generated. violation counter increments
-#shutdown - offending frame is dropped, snmp trap and syslog message generated. violation counter increments. interface goes into error-disabled state
+
+#restrict - offending frame is dropped, snmp trap and syslog message generated.
+violation counter increments
+
+#shutdown - offending frame is dropped, snmp trap and syslog message generated.
+violation counter increments.
+interface goes into error-disabled state
 
 show port-security
 
