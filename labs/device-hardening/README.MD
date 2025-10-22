@@ -4,6 +4,7 @@
 ``` bash
 int range GigabitEthernet0/1-2
   shutdown
+  end
 ```
 
 ## Infrastructure ACL
