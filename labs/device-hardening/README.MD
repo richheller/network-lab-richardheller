@@ -32,6 +32,8 @@ ip access-list extended SSH_allowed
 ``` bash
 ##to display tcp/udp services the router is listening on
 show control-plane host open-ports
+##turn off http server
+no ip http server
 
 ```
 
