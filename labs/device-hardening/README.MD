@@ -11,12 +11,12 @@
 ```
 
 ## Disabling Unused Services
-`` bash
+``` bash
 
-``
+```
 
 ## Port Security
-`` bash
+``` bash
 
-``
+```
 
