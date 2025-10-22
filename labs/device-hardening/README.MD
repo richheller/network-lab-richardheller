@@ -30,6 +30,8 @@ ip access-list extended SSH_allowed
 
 ## Disabling Unused Services
 ``` bash
+##to display tcp/udp services the router is listening on
+show control-plane host open-ports
 
 ```
 
