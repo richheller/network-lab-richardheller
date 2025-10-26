@@ -87,7 +87,7 @@ switchport port-security
 
 ![alt text](image-3.png)
 
-## disabled port auto recovery
+## disabled port auto recovery (auto re-enable a port after a specified time)
 ``` bash
 
 errdisable recovery cause p-secure violation
