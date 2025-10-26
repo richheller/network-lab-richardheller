@@ -107,6 +107,14 @@ switchport port-security
 
 ![alt text](image-4.png)
 
+## Port Security with Dynamic Learning and Protect Violation
+
+``` bash
+
+switchport port-security violation restrict
+
+```
+
 ## Implementing DHCP snooping
 ``` bash
 
