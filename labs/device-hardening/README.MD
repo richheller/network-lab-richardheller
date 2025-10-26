@@ -118,5 +118,10 @@ switchport port-security violation restrict
 ## Implementing DHCP snooping
 ``` bash
 
+ip dhcp snooping
+ip dhcp snooping vlan 20-29
+int GigabitEthernet 0/20
+  ip dhcp snooping trust
+
 ```
 
