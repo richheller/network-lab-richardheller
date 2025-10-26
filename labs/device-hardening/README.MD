@@ -95,6 +95,15 @@ errdisable recovery interval 30
 
 
 ```
+
+## Port Security with Dynamic Learning and Protect Violation
+
+``` bash
+
+test
+```
+
+
 ## Implementing DHCP snooping
 ``` bash
 
