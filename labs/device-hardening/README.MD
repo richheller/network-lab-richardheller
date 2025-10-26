@@ -83,7 +83,7 @@ switchport port-security maximum 2
 switchport port-security sticky
 switchport port-security
 ```
-
+![alt text](image-2.png)
 
 
 ## Implementing DHCP snooping
