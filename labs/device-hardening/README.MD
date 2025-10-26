@@ -105,6 +105,7 @@ switchport port-security violation protect
 switchport port-security
 ```
 
+![alt text](image-4.png)
 
 ## Implementing DHCP snooping
 ``` bash
