@@ -67,6 +67,14 @@ show port-security
 ```
 ![alt text](image-1.png)
 
+``` bash
+
+switchport mode access
+switchport port-security mac-address aabb.cc00.0200
+switchport port-security
+
+```
+
 ## Implementing DHCP snooping
 ``` bash
 
