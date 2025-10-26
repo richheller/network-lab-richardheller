@@ -73,6 +73,10 @@ switchport mode access
 switchport port-security mac-address aabb.cc00.0200
 switchport port-security
 
+
+
+switchport port-security maximum 2
+
 ```
 
 ## Implementing DHCP snooping
