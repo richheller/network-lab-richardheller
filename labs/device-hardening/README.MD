@@ -100,7 +100,9 @@ errdisable recovery interval 30
 
 ``` bash
 
-test
+switchport mode access
+switchport port-security violation protect
+switchport port-security
 ```
 
 
