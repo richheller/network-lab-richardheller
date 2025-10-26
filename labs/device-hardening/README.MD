@@ -86,6 +86,15 @@ switchport port-security
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+## disabled port auto recovery
+``` bash
+
+errdisable recovery cause p-secure violation
+errdisable recovery interval 30
+
+
+```
 ## Implementing DHCP snooping
 ``` bash
 
