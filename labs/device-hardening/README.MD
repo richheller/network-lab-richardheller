@@ -80,6 +80,8 @@ switchport port-security
 ``` bash
 sticky
 switchport port-security maximum 2
+switchport port-security sticky
+switchport port-security
 ```
 
 
