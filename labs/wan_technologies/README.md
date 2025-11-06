@@ -11,6 +11,8 @@ ip nat inside
 int e0/3
 ip nat outside
 
+ip nat inside source static 10.10.2.20 198.51.100.2
+
 
 show ip nat translations
 
