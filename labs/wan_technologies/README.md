@@ -1,13 +1,17 @@
 
 
 
-static NAT
+## static NAT
+
+``` bash
+
+
+```
+
+
+## dynamic NAT
 
 
 
-dynamic NAT
 
-
-
-
-NAT overload
+## NAT overload
