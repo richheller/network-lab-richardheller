@@ -51,6 +51,7 @@ clear ip nat translation *
 
 
 ``` bash
-
+config t
+ip nat inside source list 10 interface e0/3 overload
 
 ```
