@@ -31,6 +31,8 @@ ip nat inside
 exit
 access-list 10 permit 10.0.0.0 0.0.255.255
 ip nat pool NAT_POOL 198.51.100.100 198.51.100.149 netmask 255.255.255.0
+ip nat inside source list 10 NAT_POOL
+
 
 
 
