@@ -25,6 +25,12 @@ show ip nat translations
 ``` bash
 show ip nat statistics
 
+config t
+int e0/0
+ip nat inside
+exit
+access-list 10 permit 10.0.0.0 0.0.255.255
+ip nat pool NAT_POOL 
 
 
 ```
