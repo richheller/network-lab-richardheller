@@ -35,7 +35,7 @@ ip nat inside source list 10 NAT_POOL
 
 show ip nat translations
 
-clear ip nat translations *
+clear ip nat translation *
 
 
 ```
