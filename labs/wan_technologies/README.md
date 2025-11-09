@@ -23,6 +23,8 @@ show ip nat translations
 
 
 ``` bash
+show ip nat statistics
+
 
 
 ```
