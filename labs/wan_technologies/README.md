@@ -42,6 +42,8 @@ ip nat inside source list 10 NAT_POOL
 
 <img width="1340" height="346" alt="image" src="https://github.com/user-attachments/assets/3419aaf8-02ba-412a-8b0d-49b41dc176ff" />
 
+<img width="1184" height="722" alt="image" src="https://github.com/user-attachments/assets/89f997ec-664e-458e-81cf-b38d6a2f8e43" />
+
 
 ## NAT overload
 
