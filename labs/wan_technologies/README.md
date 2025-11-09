@@ -55,3 +55,6 @@ config t
 ip nat inside source list 10 interface e0/3 overload
 
 ```
+
+<img width="1529" height="355" alt="image" src="https://github.com/user-attachments/assets/4331309b-a78d-46f3-a19a-7c0109748fd7" />
+
