@@ -2,7 +2,7 @@
 ### NTP configuration
 
 ``` bash
-on router
+###on router
 
 config t
 int loopback 10
@@ -11,9 +11,15 @@ exit
 ntp master 3
 ntp source loopback 10
 
-on switch
+###on switch
 
 config t
 ntp server 10.10.4.1
+
+
+
+###to check
+
+sh ntp associations
 
 ```
