@@ -24,4 +24,10 @@ sh ntp associations
 
 sh ntp status
 
+
+###set timezone
+
+config t
+clock timezone CET 1
+
 ```
