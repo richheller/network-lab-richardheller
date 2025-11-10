@@ -25,7 +25,7 @@ sh ntp associations
 sh ntp status
 
 
-###set timezone
+###set timezone and dst
 
 config t
 clock timezone CET 1
