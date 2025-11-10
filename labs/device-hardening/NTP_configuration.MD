@@ -29,5 +29,6 @@ sh ntp status
 
 config t
 clock timezone CET 1
+clock summer-time CEST recurring
 
 ```
