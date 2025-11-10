@@ -22,4 +22,6 @@ ntp server 10.10.4.1
 
 sh ntp associations
 
+sh ntp status
+
 ```
