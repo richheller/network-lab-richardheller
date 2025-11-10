@@ -1,1 +1,7 @@
 
+### NTP configuration
+
+``` bash
+
+test
+```
