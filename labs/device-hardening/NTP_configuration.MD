@@ -12,6 +12,8 @@ ntp master 3
 ntp source loopback 10
 
 on switch
+
+config t
 ntp server 10.10.4.1
 
 ```
