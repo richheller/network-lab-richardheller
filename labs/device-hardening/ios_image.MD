@@ -1,5 +1,12 @@
 
+###  Cisco ios Image
 
+``` bash
+sh running-config
+
+sh startup-config
+
+```
 
 ### validating Cisco ios Image
 
