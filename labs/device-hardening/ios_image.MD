@@ -5,7 +5,7 @@
 
 ``` bash
 
-
+verify /md5 flash:/ image_name .bin
 
 
 ```
