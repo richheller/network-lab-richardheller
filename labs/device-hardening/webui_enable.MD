@@ -13,4 +13,4 @@ ip http authentication local
 
 ```
 
-[!Cisco WebUI](https://github.com/richheller/network-lab-richardheller/blob/main/labs/device-hardening/webgui.png)
+<img src="https://github.com/richheller/network-lab-richardheller/blob/main/labs/device-hardening/webgui.png">
