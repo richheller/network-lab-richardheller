@@ -14,4 +14,4 @@ ip http authentication local
 ```
 
 <img src="https://github.com/richheller/network-lab-richardheller/blob/main/labs/device-hardening/webgui.png">
-Cisco Catalyst 2960 WebUI (http dashboard - sensitive identifiers redacted)
+<i>Cisco Catalyst 2960 WebUI (http dashboard - sensitive identifiers redacted)</i>
