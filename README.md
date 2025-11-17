@@ -1,4 +1,4 @@
-# HellerITLab - Network Engineering Sandbox
+# Heller IT Lab - Network Engineering Sandbox
 
 ## Network Engineering Sandbox (Routing, Switching, VLANs, DHCP/DNS)
 
