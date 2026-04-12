@@ -25,4 +25,7 @@ The highest metric path (28416) requires a minimum variance of approximately 6.1
 
 before adjusting, R5 path to R1 destination is via 10.0.35.1
 
+<img width="650" height="21" alt="image" src="https://github.com/user-attachments/assets/cf5b2b2c-72b4-4d16-ade8-5391916195da" />
+
+
 <img width="739" height="569" alt="image" src="https://github.com/user-attachments/assets/ce31d245-f222-4be1-806c-1ae244dac71a" />
