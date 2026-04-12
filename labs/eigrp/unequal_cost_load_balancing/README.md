@@ -23,7 +23,7 @@ R5 has <b>1 successor and 2 feasible successors for the 10.0.12.0/30 network</b>
 The highest metric path (28416) requires a minimum variance of approximately 6.16 (28416 / 4608). Since variance must be an integer, a value of 7 is required to include the third feasible path into the routing table.
 
 
-before adjusting, R5 path to R1 destination is via 10.0.35.1
+Before applying the variance command, R5 reaches the 10.0.12.0/30 network via a single best path (10.0.35.1).
 
 <img width="650" height="21" alt="image" src="https://github.com/user-attachments/assets/cf5b2b2c-72b4-4d16-ade8-5391916195da" />
 
@@ -32,7 +32,7 @@ before adjusting, R5 path to R1 destination is via 10.0.35.1
 
 The variance command allows EIGRP to install additional paths into the routing table as long as their metric is within the configured multiple of the best path
 
-This demonstrates how EIGRP can perform unequal cost load balancing, unlike OSPF which only supports equal-cost load balancing.
+This lab shows how EIGRP can take advantage of multiple paths, even when their costs are different, by using the variance command.
 
 <img width="534" height="128" alt="image" src="https://github.com/user-attachments/assets/b0f81ca7-837f-449a-8ba3-60640ee6d389" />
 
