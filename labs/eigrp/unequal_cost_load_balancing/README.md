@@ -34,11 +34,12 @@ Before applying the variance command, R5 reaches the 10.0.12.0/30 network via a 
 
 The variance command allows EIGRP to install additional paths into the routing table as long as their metric is within the configured multiple of the best path
 
-This lab shows how you can actually control path selection in EIGRP and allow multiple routes to be installed even when they aren't equal cost.
+
 <font color="pink"><b>Appyling a variance of 7 to allow all three feasible paths to be installed into the routing table.</b></font>
+<br>
 <img width="534" height="128" alt="image" src="https://github.com/user-attachments/assets/b0f81ca7-837f-449a-8ba3-60640ee6d389" />
 
-Traffic is distributed proportionally across paths based on the metric.
+This lab shows how you can actually control path selection in EIGRP and allow multiple routes to be installed even when they aren't equal cost. Traffic is now distributed proportionally across paths based on the metric.
 
 
 
