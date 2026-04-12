@@ -36,6 +36,8 @@ This lab shows how you can actually control path selection in EIGRP and allow mu
 
 <img width="534" height="128" alt="image" src="https://github.com/user-attachments/assets/b0f81ca7-837f-449a-8ba3-60640ee6d389" />
 
+Traffic is distributed proportionally across paths based on the metric.
+
 
 
 <img width="1104" height="607" alt="image" src="https://github.com/user-attachments/assets/75c107ca-34c8-41cb-99b8-51251f38e0af" />
