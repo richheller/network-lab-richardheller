@@ -15,7 +15,7 @@ This lab demonstrates EIGRP unequal-cost load balancing using the variance comma
 <img width="1040" height="671" alt="image" src="https://github.com/user-attachments/assets/63af0928-7803-4511-9e6b-c3f13014a608" />
 
 
-R5 has <b>1 successor and 2 feasible successors for the 10.0.12.0/30 network</b> as both alternative paths satisfy the feasibility condition <b>RD < FD</b>.
+R5 has <b>1 successor and 2 feasible successors for the 10.0.12.0/30 network</b> as both alternative paths satisfy the feasibility condition <b>RD < FD</b>. Only paths that satisfy the feasibility condition (RD < FD) are eligible to be added to the routing table when variance is applied.
 
 <img width="478" height="89" alt="image" src="https://github.com/user-attachments/assets/56dcabce-51f5-4398-929f-99850fd5865a" />
 
