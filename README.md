@@ -1,6 +1,22 @@
-# Heller IT Lab - Network Engineering Sandbox
+# Network Engineering Sandbox
 
-## Network Engineering Sandbox (Routing, Switching, VLANs, DHCP/DNS)
+This repo is where I build and test networking labs as I work toward moving into a network engineering role.
 
+## 🔧 Current Work
 
-<img width="1182" height="713" alt="{F8270D8A-82C3-435A-9EF6-CDD81280786B}" src="https://github.com/user-attachments/assets/02a8d496-7c54-4650-b1e0-11ada9919634" />
+- **EIGRP Unequal Cost Load Balancing**
+  - Built in CML from scratch
+  - Focused on variance, feasible successors, how EIGRP chooses paths
+
+## 📁 Repo Structure
+
+- `/labs`
+  - My current networking labs
+- `/archive`
+  - Earlier CCNA-level labs I kept for reference
+
+## 🎯 What I’m Working On
+
+- Getting stronger with routing protocols (EIGRP, OSPF)
+- Understanding path selection and troubleshooting
+- Building labs from scratch
