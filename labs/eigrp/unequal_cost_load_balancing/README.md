@@ -6,6 +6,8 @@ Overview
 
 EIGRP is an advanced distance vector routing protocol, originally Cisco proprietary. For this lab I created in scratch in CML on a dedicated server I host.
 
+
+
 This lab demonstrates EIGRP unequal-cost load balancing using the variance command. Interface delay was manipulated to influence path metrics and create multiple feasible successors.
 
 <img width="1535" height="550" alt="image" src="https://github.com/user-attachments/assets/2570533e-71a6-4b02-973a-29b0787011ee" />
