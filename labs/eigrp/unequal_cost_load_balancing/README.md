@@ -6,7 +6,7 @@
 
 # Overview
 
-EIGRP is an advanced distance vector routing protocol, originally Cisco proprietary. For this lab I created in scratch in CML on a dedicated server I host.
+EIGRP is an advanced distance vector routing protocol, originally Cisco proprietary. For this lab I built the topology from scratch in Cisco Modeling Labs (CML) on a dedicated server I host.
 
 
 
