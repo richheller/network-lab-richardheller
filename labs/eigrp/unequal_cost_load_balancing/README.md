@@ -15,7 +15,7 @@ This lab demonstrates EIGRP unequal-cost load balancing using the variance comma
 <img width="1040" height="671" alt="image" src="https://github.com/user-attachments/assets/63af0928-7803-4511-9e6b-c3f13014a608" />
 
 
-My path to R1 network at 10.0.12.0/30 has <b>1 successor and 2 feasible successors</b> as both alternative paths satisfy the feasibility condition <b>RD < FD</b>.
+R5 has <b>1 successor and 2 feasible successors for the 10.0.12.0/30 network</b> as both alternative paths satisfy the feasibility condition <b>RD < FD</b>.
 
 <img width="478" height="89" alt="image" src="https://github.com/user-attachments/assets/56dcabce-51f5-4398-929f-99850fd5865a" />
 
@@ -30,7 +30,9 @@ before adjusting, R5 path to R1 destination is via 10.0.35.1
 
 <img width="739" height="569" alt="image" src="https://github.com/user-attachments/assets/ce31d245-f222-4be1-806c-1ae244dac71a" />
 
+The variance command allows EIGRP to install additional paths into the routing table as long as their metric is within the configured multiple of the best path
 
+This demonstrates how EIGRP can perform unequal cost load balancing, unlike OSPF which only supports equal-cost load balancing.
 
 <img width="534" height="128" alt="image" src="https://github.com/user-attachments/assets/b0f81ca7-837f-449a-8ba3-60640ee6d389" />
 
