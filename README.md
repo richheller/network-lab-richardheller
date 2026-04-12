@@ -1,6 +1,6 @@
 # Network Engineering Sandbox
 
-This repo is where I build and test networking labs as I work toward moving into a network engineering role.
+This repo is where I build and test networking labs focused on routing and network behavior.
 
 ## 🔧 Current Work
 
