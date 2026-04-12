@@ -36,3 +36,7 @@ before adjusting, R5 path to R1 destination is via 10.0.35.1
 
 
 
+<img width="1104" height="607" alt="image" src="https://github.com/user-attachments/assets/75c107ca-34c8-41cb-99b8-51251f38e0af" />
+
+
+
