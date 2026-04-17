@@ -1,22 +1,20 @@
-# Network Engineering Sandbox
+# Networking Lab – Cisco CML
 
-This repo is where I build and test networking labs focused on routing and network behavior.
+This repository contains networking labs built in Cisco CML, focused on routing protocols and network behavior.
 
-## 🔧 Current Work
+## Current Lab
 
-- **EIGRP Unequal Cost Load Balancing**
-  - Built in CML from scratch
-  - Focused on variance, feasible successors, how EIGRP chooses paths
+### EIGRP – Unequal Cost Load Balancing
+- Built from scratch in CML
+- Covers variance, feasible successors, and path selection
 
-## 📁 Repo Structure
+## Structure
 
-- `/labs`
-  - My current networking labs
-- `/archive`
-  - Earlier CCNA-level labs I kept for reference
+- /labs — current labs
+- /archive — older CCNA-level labs
 
-## 🎯 What I’m Working On
+## In Progress
 
-- Getting stronger with routing protocols (EIGRP, OSPF)
-- Understanding path selection and troubleshooting
-- Building labs from scratch
+- OSPF labs
+- BGP (intro level)
+- Continued work on routing behavior and troubleshooting
